@@ -69,7 +69,7 @@ describe('divide function', function() {
     } )
 })
 
-describe('subtract function', function() {
+describe('multiply function', function() {
 
     test('7 * 2 = 9', () => {
         calculate = new calculator
